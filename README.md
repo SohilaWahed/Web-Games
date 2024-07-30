@@ -13,4 +13,4 @@ A comprehensive website that showcases a variety of games, their details, and ca
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Bootstrap 4**
+- **Bootstrap 5**
